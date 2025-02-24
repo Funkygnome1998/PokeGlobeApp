@@ -2195,7 +2195,7 @@
       "Sp. Defense": 45,
       "Speed": 40
     },
-    "Evolutions":["Exegcute", "Exeggutor"]
+    "Evolutions":["Exeggcute", "Exeggutor"]
   },
   {
     "id": 103,
@@ -2217,7 +2217,7 @@
       "Sp. Defense": 75,
       "Speed": 55
     },
-    "Evolutions":["Exegcute", "Exeggutor"]
+    "Evolutions":["Exeggcute", "Exeggutor"]
   },
   {
     "id": 104,
